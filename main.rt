@@ -1,1 +1,2 @@
 Optimize Ed25519 signature verification performance
+Improve certificate validation error handling
